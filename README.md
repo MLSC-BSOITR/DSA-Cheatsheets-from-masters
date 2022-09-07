@@ -1,6 +1,6 @@
-# DSA-Cheatsheets-from-masters
+# MLSC BSIOTR DSA-Cheatsheets-from-masters
 
-👨‍💻 All DSA Sheet Links ✅
+👨‍💻 All DSA Sheet Links By Devorld ✅
 
 ## • Striver 180 Problems DSA Sheet:- 
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ 
